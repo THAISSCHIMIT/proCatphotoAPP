@@ -1,0 +1,1 @@
+HTML  =  (lang)    HEAD  =  (meta+title)    BODY  =  (todo conteúdo do main)     MAIN   = (2 section, img, href, 2 figure, 2figcaption, ul, ol , h2, h3)      FOOTER   =   (p, img)
