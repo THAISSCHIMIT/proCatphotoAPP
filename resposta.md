@@ -1,0 +1,1 @@
+Um h3 nunca deve vir antes do h2 porque os títulos devem seguir uma ordem hierárquica, mantendo a estrutura e a organização do conteúdo.
